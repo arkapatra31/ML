@@ -9,6 +9,7 @@ Learning and Implementation of my Machine Learning Journey
    - [Intuitions](Classification%20Models/Intuitions.ipynb)
    - [KNN](Classification%20Models/KNN/)
    - [Logistic Regression](Classification%20Models/logistic_regression/)
+   - [Gaussian Naive Bayes](Classification%20Models/Naive-Bayes/)
    - [RBF-SVM](Classification%20Models/RBF-SVM/)
    - [SVM](Classification%20Models/SVM/)
 2. [Data Preprocessing](#data-preprocessing)
