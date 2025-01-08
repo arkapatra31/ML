@@ -36,6 +36,7 @@ pywin32==308
 pyzmq==26.2.0
 scikit-learn==1.6.0
 scipy==1.14.1
+seaborn==0.13.2
 six==1.17.0
 stack-data==0.6.3
 statsmodels==0.14.4
